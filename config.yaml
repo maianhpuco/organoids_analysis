@@ -1,0 +1,5 @@
+path:
+  videos: datasets/videos
+  frames: datasets/frames
+  raft_images: datasets/optical_flows
+  raft_weight_path: includes/RAFT/models/raft-sintel.pth
